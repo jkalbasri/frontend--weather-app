@@ -1,4 +1,7 @@
-# Smooth weather app
+#  Frontend weather app
+
+## 🖥 About
+Smooth weather is a weather app with a great visual design, it supports searching locations by city name. 
 
 <a href="https://jkalbasri.github.io/weather-app/" target="blank" align="center">
   <picture>
@@ -19,10 +22,5 @@
 ### API Info
 * Method: `GET`
 * URL: `https://api.openweathermap.org/data/2.5/weather?`
-
-## 🖥 About
-Smooth weather is a weather app with a great visual design, it supports searching locations by city name. 
-
 ---
-
 ## [AA](http://albasri.dk/)
