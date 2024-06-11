@@ -13,7 +13,7 @@ Smooth weather is a weather app with a great visual design, it supports searchin
 
 ### Demo - Deployed over Github Pages 
 <a href="https://jkalbasri.github.io/weather-app/" target="blank" align="center"> 
-[DEMO HERE 🖥]
+Live Preview 🌐
 </a>
 
 ### APIs Used
