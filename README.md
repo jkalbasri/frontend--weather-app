@@ -10,7 +10,7 @@
 
 ### Demo - Deployed over Github Pages 
 <a href="https://jkalbasri.github.io/weather-app/" target="_blank" align="center"> 
-[DEMO HERE 🖥](https://jkalbasri.github.io/weather-app/)
+[DEMO HERE 🖥]
 </a>
 
 ### APIs Used
