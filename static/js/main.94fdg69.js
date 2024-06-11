@@ -11425,7 +11425,7 @@
             (0, _.jsx)("div", {
               className: "weather-icon",
               style: {
-                background: "url(/weather_icons/".concat(
+                background: "url(weather_icons/".concat(
                   o.weather[0].icon,
                   ".png)"
                 ),
@@ -11503,7 +11503,7 @@
                 timeZone: e.timezone,
               });
             return (0,
-            _.jsxs)(z, { className: "forecast-card", children: [(0, _.jsx)("div", { className: "forecast-day", children: r.format(n) }), (0, _.jsx)("img", { src: "/weather_icons/".concat(e.weather[0].icon, ".png"), alt: "icon", width: 100 }), (0, _.jsx)("div", { className: "forecast-description", children: e.weather[0].description }), (0, _.jsxs)("div", { className: "minmax-temp", children: [(0, _.jsx)(L, { temperature: e.temp.max }), "\xb0", (0, _.jsxs)("span", { children: [(0, _.jsx)(L, { temperature: e.temp.min }), "\xb0"] })] })] }, t);
+            _.jsxs)(z, { className: "forecast-card", children: [(0, _.jsx)("div", { className: "forecast-day", children: r.format(n) }), (0, _.jsx)("img", { src: "weather_icons/".concat(e.weather[0].icon, ".png"), alt: "icon", width: 100 }), (0, _.jsx)("div", { className: "forecast-description", children: e.weather[0].description }), (0, _.jsxs)("div", { className: "minmax-temp", children: [(0, _.jsx)(L, { temperature: e.temp.max }), "\xb0", (0, _.jsxs)("span", { children: [(0, _.jsx)(L, { temperature: e.temp.min }), "\xb0"] })] })] }, t);
           }),
         });
       };
@@ -11531,7 +11531,7 @@
                     children: "Humidity",
                   }),
                   (0, _.jsx)("img", {
-                    src: "/weather_icons/humidity.png",
+                    src: "weather_icons/humidity.png",
                     width: 100,
                     alt: "",
                   }),
@@ -11552,7 +11552,7 @@
                     children: "Wind Speed",
                   }),
                   (0, _.jsx)("img", {
-                    src: "/weather_icons/wind-".concat(
+                    src: "weather_icons/wind-".concat(
                       r ? "night" : "day",
                       ".png"
                     ),
@@ -11575,7 +11575,7 @@
                     className: "sun-info",
                     children: [
                       (0, _.jsx)("img", {
-                        src: "/weather_icons/sunrise.png",
+                        src: "weather_icons/sunrise.png",
                         width: 50,
                         alt: "",
                       }),
@@ -11591,7 +11591,7 @@
                     className: "sun-info",
                     children: [
                       (0, _.jsx)("img", {
-                        src: "/weather_icons/sunset.png",
+                        src: "weather_icons/sunset.png",
                         width: 50,
                         alt: "",
                       }),
@@ -11613,7 +11613,7 @@
                     children: "Clouds",
                   }),
                   (0, _.jsx)("img", {
-                    src: "/weather_icons/clouds.png",
+                    src: "weather_icons/clouds.png",
                     width: 100,
                     alt: "",
                   }),
@@ -11634,7 +11634,7 @@
                     children: "UV Index",
                   }),
                   (0, _.jsx)("img", {
-                    src: "/weather_icons/uv.png",
+                    src: "weather_icons/uv.png",
                     width: 100,
                     alt: "",
                   }),
@@ -11649,7 +11649,7 @@
                     children: "Pressure",
                   }),
                   (0, _.jsx)("img", {
-                    src: "/weather_icons/pressure.png",
+                    src: "weather_icons/pressure.png",
                     width: 100,
                     alt: "",
                   }),
@@ -16615,7 +16615,7 @@
                   timeZone: t.timezone,
                 });
               return (0,
-              _.jsx)(ht, { children: (0, _.jsxs)(z, { className: "forecast-card", children: [(0, _.jsxs)("div", { className: "forecast-day", children: [i.format(r), ",", " ", (0, _.jsx)("span", { children: a.format(r) })] }), (0, _.jsx)("img", { src: "/weather_icons/".concat(e.weather[0].icon, ".png"), alt: "", width: 100 }), (0, _.jsx)("div", { className: "forecast-description", children: e.weather[0].description }), (0, _.jsxs)("div", { className: "minmax-temp", children: [(0, _.jsx)(L, { temperature: e.temp }), "\xb0"] })] }, n) }, n + Math.random().toString());
+              _.jsx)(ht, { children: (0, _.jsxs)(z, { className: "forecast-card", children: [(0, _.jsxs)("div", { className: "forecast-day", children: [i.format(r), ",", " ", (0, _.jsx)("span", { children: a.format(r) })] }), (0, _.jsx)("img", { src: "weather_icons/".concat(e.weather[0].icon, ".png"), alt: "", width: 100 }), (0, _.jsx)("div", { className: "forecast-description", children: e.weather[0].description }), (0, _.jsxs)("div", { className: "minmax-temp", children: [(0, _.jsx)(L, { temperature: e.temp }), "\xb0"] })] }, n) }, n + Math.random().toString());
             }),
           }),
         });
