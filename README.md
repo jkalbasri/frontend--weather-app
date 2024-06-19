@@ -3,7 +3,7 @@
 ## 🖥 About
 Smooth weather is a weather app with a great visual design, it supports searching locations by city name. 
 
-<a href="https://jkalbasri.github.io/weather-app/" target="blank" align="center">
+<a href="https://jkalbasri.github.io/frontend--weather-app/" target="blank" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="static/media/readme.png">
     <img alt="READMEs Screenshot" src="static/media/readme.png">
@@ -12,7 +12,7 @@ Smooth weather is a weather app with a great visual design, it supports searchin
 
 
 ### Demo - Deployed over Github Pages 
-<a href="https://jkalbasri.github.io/weather-app/" target="blank" align="center"> 
+<a href="https://jkalbasri.github.io/frontend--weather-app/" target="blank" align="center"> 
 Live Preview 🌐
 </a>
 
