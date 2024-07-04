@@ -7,9 +7,8 @@ Smooth weather is a weather app with a great visual design, it supports searchin
 <a href="https://jkalbasri.github.io/frontend--weather-app/" target="blank" align="center"> 
 Live Preview 🌐
 </a>
-&nbsp;
-&nbsp;
-&nbsp;
+<space>
+</space>
 <a href="https://jkalbasri.github.io/frontend--weather-app/" target="blank" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="static/media/readme.png">
