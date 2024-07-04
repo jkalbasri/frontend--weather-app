@@ -1,18 +1,13 @@
 #  Frontend weather app
 
-## 🖥 About
-Smooth weather is a weather app with a great visual design, it supports searching locations by city name. 
+Minimal weather is a weather app with a great visual design, it supports searching locations by city name.
 
-### Demo - Deployed over Github Pages 
-<a href="https://jkalbasri.github.io/frontend--weather-app/" target="blank" align="center"> 
-Live Preview 🌐
-</a>
-<br />
-<br />
+## 🌐 <a href="https://jkalbasri.github.io/frontend--weather-app/" target="blank" align="center"> Live Preview </a>
+
 <a href="https://jkalbasri.github.io/frontend--weather-app/" target="blank" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="static/media/readme.png">
-    <img alt="READMEs Screenshot" src="static/media/readme.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./preview.png">
+    <img alt="READMEs Screenshot" src="./preview.png>
   </picture>
 </a>
 
