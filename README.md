@@ -6,8 +6,8 @@ Minimal weather is a weather app with a great visual design, it supports searchi
 
 <a href="https://jkalbasri.github.io/frontend--weather-app/" target="blank" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./preview.png">
-    <img alt="READMEs Screenshot" src="./preview.png>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme.png">
+    <img alt="READMEs Screenshot" src="./readme.png>
   </picture>
 </a>
 
